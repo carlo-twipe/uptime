@@ -4,19 +4,19 @@
     "url": "https://www.twipemobile.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.twipemobile.com.ico",
     "slug": "twipe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1862,
-    "timeDay": 1602,
-    "timeWeek": 2067,
-    "timeMonth": 1853,
-    "timeYear": 1862,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1860,
+    "timeDay": 1606,
+    "timeWeek": 2016,
+    "timeMonth": 1845,
+    "timeYear": 1860,
     "dailyMinutesDown": {
-      "2025-03-19": 0
+      "2025-03-19": 18
     }
   }
 ]
