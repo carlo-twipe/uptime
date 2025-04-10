@@ -4,7 +4,7 @@
     "url": "https://www.twipemobile.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.twipemobile.com.ico",
     "slug": "twipe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1777,
     "timeYear": 1836,
     "dailyMinutesDown": {
+      "2025-04-10": 0,
       "2025-03-24": 24,
       "2025-03-19": 18
     }
